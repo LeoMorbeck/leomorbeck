@@ -1,7 +1,7 @@
  ## Olá, me chamo Leonardo
  
 - 📚 Tecnólogo em Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando HTML/CSS/Javascript
+
 
 <div align="center">
   <a href="https://github.com/LeoMorbeck">
